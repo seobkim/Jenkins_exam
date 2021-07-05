@@ -34,7 +34,7 @@
 
 ### 10. 젠킨스에서 톰캣서버에 접근하기 위해 tomcat_users.xml 수정
 <img src="./imgfolder/8.톰캣 셋팅 설정.png">
-<img src="./imgfolder/8-1. 톰캣 파일 설정.png">
+<img src="./imgfolder/8-1. 톰캣 파일 설정.PNG">
 
 ### 11. 젠킨스 새로운 아이템(프로젝트) 추가
 <img src="./imgfolder/9.젠킨스 프로젝트 추가.png">
@@ -56,7 +56,7 @@
 <img src="./imgfolder/13.빌드조치 후.png">
 
 ### 17. 빌드
-<img src="./imgfolder/14.빌드png">
+<img src="./imgfolder/14.빌드.png">
 
 
 
