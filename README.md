@@ -38,14 +38,14 @@
 
 <pre>
 <code>
-<role name="tomcat"/>
-<role name="manager-gui"/>
-<role name="manager-script"/>
-<role name="manager-jmx"/>
-<role name="manager-status"/>
-<role name="admin-gui"/>
-<role name="admin-script"/>
-<user role="tomcat,manager-gui,manager-script,manager-jmx,manager-status,admin-gui,admin-script" password="admin" username="admin"/>
+  <role name="tomcat"/>
+  <role name="manager-gui"/>
+  <role name="manager-script"/>
+  <role name="manager-jmx"/>
+  <role name="manager-status"/>
+  <role name="admin-gui"/>
+  <role name="admin-script"/>
+  <user role="tomcat,manager-gui,manager-script,manager-jmx,manager-status,admin-gui,admin-script" password="admin" username="admin"/>
 </code>
 </pre>
 
