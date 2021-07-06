@@ -35,7 +35,9 @@
 ### 10. 젠킨스에서 톰캣서버에 접근하기 위해 tomcat_users.xml 수정
 <img src="./imgfolder/8.톰캣 셋팅 설정.png">
 <img src="./imgfolder/8-1. 톰캣 파일 설정.PNG">
-'''
+
+<pre>
+<code>
 <role name="tomcat"/>
 <role name="manager-gui"/>
 <role name="manager-script"/>
@@ -44,7 +46,8 @@
 <role name="admin-gui"/>
 <role name="admin-script"/>
 <user role="tomcat,manager-gui,manager-script,manager-jmx,manager-status,admin-gui,admin-script" password="admin" username="admin"/>
-'''
+</code>
+</pre>
 
 ### 11. 젠킨스 새로운 아이템(프로젝트) 추가
 <img src="./imgfolder/9.젠킨스 프로젝트 추가.png">
@@ -85,7 +88,7 @@
 <img src="./imgfolder/18.app setting2.png">
 
 ### 기타 설정들을 개인 취향에 맞도록 수정한뒤 Save Settings 버튼을 클릭합니다.
-<img src="./imgfolder/19.app setting3드.png">
+<img src="./imgfolder/19.app setting3.png">
 
 ### 설정이 완료 되었다면 아래 Configurations에 설정한 항목이 추가된것을 확인할 수 있습니다.
 <img src="./imgfolder/20.app setting4.png">
