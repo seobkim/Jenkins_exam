@@ -66,7 +66,9 @@
 <img src="./imgfolder/12.pom 위치 설정.png">
 
 ### 16. 빌드 후 옵션 설정
+<img src="./imgfolder/25.추가추가.png">
 <img src="./imgfolder/13.빌드조치 후.png">
+
 
 ### 17. 빌드
 <img src="./imgfolder/14.빌드.png">
