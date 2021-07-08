@@ -38,14 +38,14 @@
 
 <pre>
 <code>
- "<role rolename="tomcat"/>"
- "<role rolename="manager-gui"/>"
- "<role rolename="manager-script"/>"
- "<role rolename="manager-jmx"/>"
- "<role rolename="manager-status"/>"
- "<role rolename="admin-gui"/>"
- "<role rolename="admin-script"/>"
- "<user roles="tomcat,manager-gui,manager-script,manager-jmx,manager-status,admin-gui,admin-script" password="admin" username="admin"/>"
+ role rolename="tomcat"/
+ role rolename="manager-gui"/
+ role rolename="manager-script"/
+ role rolename="manager-jmx"/
+ role rolename="manager-status"/
+ role rolename="admin-gui"/
+ role rolename="admin-script"/
+ user roles="tomcat,manager-gui,manager-script,manager-jmx,manager-status,admin-gui,admin-script" password="admin" username="admin"/
 </code>
 </pre>
 
